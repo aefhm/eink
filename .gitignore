@@ -1,0 +1,12 @@
+# Local Wi-Fi credentials
+config.h
+
+# Firmware artifacts may embed credentials
+build/
+*.bin
+*.elf
+*.map
+*.hex
+
+# macOS
+.DS_Store
